@@ -69,4 +69,4 @@ for turn in range(100):
     blue.forward(randint(1, 5))
     green.forward(randint(1, 5))
     yellow.forward(randint(1, 5))
-
+mainloop()
